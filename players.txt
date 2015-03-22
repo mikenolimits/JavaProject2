@@ -1,0 +1,6 @@
+37,Smith,John,.351
+38,Bob,Miller,.670
+39,Jordan,Michael,.999
+40,Dwayne,Wayde,.100
+41,Hopkins,Michael,.9999
+42,G,W,.998
